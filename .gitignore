@@ -1,2 +1,5 @@
 # nodejs
 node_modules/
+
+#sqlite database
+database.sqlite
