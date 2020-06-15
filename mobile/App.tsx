@@ -14,7 +14,6 @@ export default function App() {
   })
 
   if (!fontsLoaded) {
-    console.log('teste')
     return <AppLoading />
   }
   
